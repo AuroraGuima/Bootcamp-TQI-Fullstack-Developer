@@ -307,7 +307,7 @@ a:hover {
 
 /* MOBILE RESPONSIVE */
 
-@media all and (max-width: 800px) {
+@media all and (max-width: 900px) {
     .social-media {
         display: flex;
         flex-direction: column;
@@ -343,7 +343,7 @@ a:hover {
     }
 
     .menu {
-        top: -30%
+        top: -0%
     }
 
     .card-wrapper h2 {
