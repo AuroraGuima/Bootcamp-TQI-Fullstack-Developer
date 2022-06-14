@@ -341,4 +341,13 @@ a:hover {
         height: 190px;
         width: 190px;
     }
+
+    .menu {
+        top: -47%
+    }
+
+    .card-wrapper h2 {
+        font-size: 30px;
+    }
+
 }
